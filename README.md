@@ -1,4 +1,4 @@
-# Sistem Pendaftaran Online STT GIDI Papua
+# Sistem Pendaftaran Online STT Baptis Di Papua
 Website pendaftaran mahasiswa baru berbasis HTML, Tailwind CSS, dan Alpine.js.
 Proyek ini menyediakan alur untuk pengunjung (calon mahasiswa) dan admin kampus dalam satu paket halaman frontend.
 
@@ -27,4 +27,4 @@ Proyek ini menyediakan alur untuk pengunjung (calon mahasiswa) dan admin kampus 
 ## Informasi Proyek
 - Author: Nokensoft.com
 - PIC: 082199558191 (Janzen)
-- Live Demo: https://nokensoft.github.io/178-stt-gidi-registration-2026/
+- Live Demo: https://nokensoft.github.io/210-stt-baptis-registration/
